@@ -1,0 +1,1 @@
+(self.webpackChunkfresher_course=self.webpackChunkfresher_course||[]).push([[780],{8684:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/topcv-course/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/topcv-course/blog/tags/hola"}')}}]);
