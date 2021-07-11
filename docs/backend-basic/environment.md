@@ -70,13 +70,13 @@ $ systemctl enable nginx.service
 
 - Truy cập đường dẫn: [http://localhost](http://localhost). Nếu thấy hiển thị như bên dưới, vậy là bạn đã cài đặt nginx thành công
 
-![Nginx](img/nginx.png "Nginx")
+![Nginx](./img/nginx.png "Nginx")
 
 ## Config Nginx và PHP
 
 - Đầu tiên, đưa toàn bộ code frontend của bạn vào một thư mục. VD: `/home/<username>/Documents/codes/fresher-course`
 
-![Directory](img/directory.png "Directory")
+![Directory](./img/directory.png "Directory")
 
 - Điều hướng đến thư mục config của Nginx
 
@@ -179,4 +179,4 @@ Truy cập vào đường dẫn [http://fresher.course.com/info.php](http://fres
 
 Nếu nội dung hiển thị giống hình dưới, vậy bạn đã config Nginx chạy code PHP thành công
 
-![phpinfo](img/phpinfo.png "phpinfo")
+![phpinfo](./img/phpinfo.png "phpinfo")
